@@ -3,6 +3,7 @@ layout: page
 title: Privacy Policy
 include_in_header: true
 ---
+
 # TooLoud Privacy Policy 
 
 Last updated [April 19, 2021]
