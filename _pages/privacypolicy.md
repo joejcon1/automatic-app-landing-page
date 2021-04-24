@@ -45,15 +45,15 @@ We may share information we have collected about you in certain situations. Your
 
 If we believe the release of information about you is necessary to respond to legal process, to investigate or remedy potential violations of our policies, or to protect the rights, property, and safety of others, we may share your information as permitted or required by any applicable law, rule, or regulation. This includes exchanging information with other entities for fraud protection and credit risk reduction.
 
-Third-Party Service Providers
+## Third-Party Service Providers
 
 We may share your information with third parties that perform services for us or on our behalf, including data analysis, customer service.
 
-Affiliates
+## Affiliates
 
 We may share your information with our affiliates, in which case we will require those affiliates to honor this Privacy Policy. Affiliates include our parent company and any subsidiaries, joint venture partners or other companies that we control or that are under common control with us.
 
-Sale or Bankruptcy
+## Sale or Bankruptcy
 
 If we reorganize or sell all or a portion of our assets, undergo a merger, or are acquired by another entity, we may transfer your information to the successor entity. If we go out of business or enter bankruptcy, your information would be an asset transferred or acquired by a third party. You acknowledge that such transfers may occur and that the transferee may decline honor commitments we made in this Privacy Policy.
 
